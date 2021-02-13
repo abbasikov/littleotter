@@ -1,3 +1,12 @@
 .App {
   margin: 20px;
 }
+
+.ui.selection.dropdown {
+  margin-left: 3px;
+  margin-right: 3px;
+}
+
+.ui.container {
+  margin-top:50px ;
+}
